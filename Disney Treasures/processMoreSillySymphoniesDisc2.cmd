@@ -17,7 +17,7 @@ ren "*10.*" "Disney Animated Shorts - Several Shorts Together.*"
 ren "*11.*" "Disney Animated Shorts - More Shorts Together.mp4*"
 ren "*12.*" "Disney Animated Shorts - Many shorts.mp4*"
 ren "*13.*" "Disney Animated Shorts - S1938E17 - Merbabies.mp4*"
-ren "*16.*" "Disney Animated Shorts - Animators at play.p4*"
+ren "*16.*" "Disney Animated Shorts - Animators at play.mp4*"
 
 rem NOTE: The second disk of More Silly Symphonies is corrupt in a way that cannot be
 rem     read by a DVD drive. For the most part, they seem to play on DVD players, but 
