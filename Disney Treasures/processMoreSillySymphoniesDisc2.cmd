@@ -2,22 +2,22 @@ rem Renaming and organizing for the video from
 rem More Silly Synphonies Disc 2
 
 rem rename all the files
-ren "*00.*" "Disney Animated Shorts - Birds in the Spring - Night Before Christmas.*"
+ren "*00.*" "Disney Animated Shorts - Birds in the Spring.mp4 Night Before Christmas.mp4*"
 ren "*01.*" "Disney Animated Shorts - S1933E04 - Birds in the Spring.*"
 
-ren "*02.*" "Disney Animated Shorts - S1935E18 - Cock o the walk.*"
-ren "*03.*" "Disney Animated Shorts - S1934E15 - Goddess of Spring.*"
-ren "*04.*" "Disney Animated Shorts - S1937E07 - Little Hiawatha.*"
+ren "*02.*" "Disney Animated Shorts - S1935E18 - Cock o the walk.mp4*"
+ren "*03.*" "Disney Animated Shorts - S1934E15 - Goddess of Spring.mp4*"
+ren "*04.*" "Disney Animated Shorts - S1937E07 - Little Hiawathamp4.*"
 ren "*05.*" "Disney Animated Shorts - S1938E04 - Moth and the Flame.*"
 ren "*06.*" "Disney Animated Shorts - S1933E19 - Night Before Christmas.*"
-ren "*07.*" "Disney Animated Shorts - S1933E12 - Old King Cole.*"
-ren "*08.*" "Disney Animated Shorts - S1933E15 - The Pied Piper.*"
-ren "*09.*" "Disney Animated Shorts - S1936E13 - Three Blind Mouseketeers.*"
+ren "*07.*" "Disney Animated Shorts - S1933E12 - Old King Cole.mp4*"
+ren "*08.*" "Disney Animated Shorts - S1933E15 - The Pied Piper.mp4*"
+ren "*09.*" "Disney Animated Shorts - S1936E13 - Three Blind Mouseketeers.mp4*"
 ren "*10.*" "Disney Animated Shorts - Several Shorts Together.*"
-ren "*11.*" "Disney Animated Shorts - More Shorts Together.*"
-ren "*12.*" "Disney Animated Shorts - Many shorts.*"
-ren "*13.*" "Disney Animated Shorts - S1938E17 - Merbabies.*"
-ren "*16.*" "Disney Animated Shorts - Animators at play.*"
+ren "*11.*" "Disney Animated Shorts - More Shorts Together.mp4*"
+ren "*12.*" "Disney Animated Shorts - Many shorts.mp4*"
+ren "*13.*" "Disney Animated Shorts - S1938E17 - Merbabies.mp4*"
+ren "*16.*" "Disney Animated Shorts - Animators at play.p4*"
 
 rem NOTE: The second disk of More Silly Symphonies is corrupt in a way that cannot be
 rem     read by a DVD drive. For the most part, they seem to play on DVD players, but 
